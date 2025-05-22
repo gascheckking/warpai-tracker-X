@@ -1,0 +1,13 @@
+{
+  "name": "WarpAI Onchain Tracker",
+  "description": "Track your onchain activities with WarpAI",
+  "icon": "https://yourdomain.com/public/assets/logo.png",
+  "url": "https://your-vercel-app.vercel.app/",
+  "version": "1.0.0",
+  "supportedPlatforms": ["warpcast"],
+  "permissions": ["wallet:connect"],
+  "author": {
+    "name": "Spawniz",
+    "url": "https://github.com/gascheckking"
+  }
+}
